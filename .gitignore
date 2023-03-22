@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
-
+.ccls-cache/
+.cache/
+*.nix
+Makefile
+.replit
+main-debug
+main
 # Compiled Object files
 *.slo
 *.lo
